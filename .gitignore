@@ -5,3 +5,10 @@
 [Tt]est[Rr]esult*/
 *.user
 [Rr]esource.[Dd]esigner.cs
+
+*.zip
+*.rar
+*.7z
+*.iso
+*.bak
+*.trn
