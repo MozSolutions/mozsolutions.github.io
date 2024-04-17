@@ -4,10 +4,7 @@ description: Software tools and utilites
 ---
 Bob Tools.
 
-[*`ArcGIS Browser`*](/arcgis-browser)
+[*`ArcGIS Browser`*](/bob/arcgis-browser)
 
 ---
-[*`Moz Solutions`*](/)
-
----
-©2016-2024 Moz Solutions
+©2016-2024 [*`Moz Solutions`*](/)

@@ -1,7 +1,9 @@
 ---
-title: Bob Tools
-description: Bob tools and utilities
+title: Gem GIS
+description: Gem Geographical Information System
 ---
+*Information Level*
+
 Rox Camera Provider acquires images with the device camera using native platform components.
 
 *Rox Camera Provider for Xamarin.Forms supports Android, iOS, and UWP*.
@@ -39,20 +41,5 @@ In your iOS project `AppDelegate.cs` code file, you must call `Rox.Camera.Init()
     LoadApplication(new MyCameraApplication());
 ```
 
-### Links
-
-| Site | URL |
-| --- | --- |
-| Help | [rox.tools/control/camera](https://rox.tools/control/camera/) |
-| | [rox.tools/control/camera/xamarin](https://rox.tools/control/camera/xamarin/) |
-| Sample | [rox.gallery/control](https://rox.gallery/control/) |
-| Source | [github.com/ai-ro-bo/Rox.Control.Camera.Xamarin](https://github.com/ai-ro-bo/Rox.Control.Camera.Xamarin) |
-| NuGet | [nuget.org/packages/Rox.Xamarin.Camera](https://www.nuget.org/packages/Rox.Xamarin.Camera/) |
-| AiRoBo | [airobo.software](https://airobo.software/) |
-
-| Site | [rox.tools/control/camera](https://rox.tools/control/camera/) |
-| NuGet | [nuget.org/packages/Rox.Xamarin.Camera](https://www.nuget.org/packages/Rox.Xamarin.Camera/) |
-| Source | [github.com/ai-ro-bo/Rox.Control.Camera.Xamarin](https://github.com/ai-ro-bo/Rox.Control.Camera.Xamarin) |
-
 ---
-Visit [*`AiRoBo Software`*](https://airobo.software/) for more information.
+©2016-2024 [*`Moz Solutions`*](/)
