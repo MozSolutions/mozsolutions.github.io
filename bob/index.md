@@ -2,9 +2,10 @@
 title: Bob Tools
 description: Software tools and utilites
 ---
-Bob Tools.
+Tools and Utilites.
 
-[*`ArcGIS Browser`*](/bob/arcgis-browser)
+## [*`ArcGIS Browser`*](/bob/arcgis-browser)
+An application that allows browsing of an ArcGIS server.
 
 ---
-©2016-2024 [*`Moz Solutions`*](/)
+©2024 [Moz Solutions](/)
