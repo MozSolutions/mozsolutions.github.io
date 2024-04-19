@@ -2,7 +2,10 @@
 title: Moz Solutions
 description: Software components, integrations, services, and applications
 ---
-Moz Solutions.
+## Moz Solutions
+Moz Solutions software is a combination of components utilised to develop applications.
+
+The following are the available components.
 
 ---
 

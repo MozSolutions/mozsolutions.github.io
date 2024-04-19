@@ -9,4 +9,4 @@ Browse a specified ArcGIS server for connected services.
 Back to [*Bob Tools*](/bob)
 
 ---
-©2016-2024 [Moz Solutions](/)
+©2024 [Moz Solutions](/)
