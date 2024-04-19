@@ -4,9 +4,9 @@ description: Software components, integrations, services, and applications
 ---
 Moz Solutions.
 
-- [*`Bob Tools`*](/bob)
-- [*`Gem Software`*](/gem)
-- [*`Oil Integrations`*](/oil)
+- [*Bob Tools*](/bob)
+- [`Gem Software`](/gem)
+- [**Oil Integrations**](/oil)
 - [*`Rox Components`*](/rox)
 
 ---
