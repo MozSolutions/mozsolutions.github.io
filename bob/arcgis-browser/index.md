@@ -6,7 +6,7 @@ Browse a specified ArcGIS server for connected services.
 
 - App Download
 
-Back to [Bob Tools](/bob)
+Back to [*Bob Tools*](/bob)
 
 ---
 ©2016-2024 [Moz Solutions](/)
